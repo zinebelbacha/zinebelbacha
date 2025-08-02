@@ -1,9 +1,9 @@
-## 👋Hi there, I'm Zineb!
+## 👋 Hi there, I'm Zineb!
 
 💻 Data Engineering Student at [INPT](https://www.inpt.ac.ma/)</br>
-✨ Driven by a passion for AI and Data Science.</br>
-📚 I love reading and expanding my knowledge.</br>
-🚀 Currently learning about advanced data pipelines and data visualization.
+✨ Passionate about building scalable data systems and intelligent pipelines.</br>
+📚 Avid learner, always exploring the intersection of data, AI, and engineering.</br>
+🚀 Currently learning about advanced data pipelines and data modeling best practices.
 
  
 
