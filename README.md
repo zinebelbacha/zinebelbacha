@@ -5,7 +5,7 @@
 
 - 🐣 I love building scalable data systems and pipelines.  
 - 🌱 Avid learner.  
-- ✨ Currently diving deep into **Data Modeling**.
+- ✨ Currently learning about **Data Modeling**.
 
 ---
 
