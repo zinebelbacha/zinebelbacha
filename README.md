@@ -1,11 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=fec5e5&height=100&text=Hey%20There!&fontSize=50&fontColor=ffffff&animation=fadeIn)
 
 
-# <p align="center">I'm Zineb, a Data Engineering Student at [INPT](https://www.inpt.ac.ma/)</p>
+# <p align="center">I'm Zineb, a Data & AI Student at [INPT](https://www.inpt.ac.ma/)</p>
 
 - 🐣 I love building scalable data systems and pipelines.  
-- 🌱 Avid learner.  
-- ✨ Currently learning about **Data Modeling**.
+- 🌱 Avid learner exploring the intersection of Data Engineering and AI. 
+- ✨ Currently learning about **Data Modeling** and **MLOps**.
 
 ---
 
