@@ -4,8 +4,8 @@
 # <p align="center">I'm Zineb, a Data & AI Student at [INPT](https://www.inpt.ac.ma/)</p>
 
 - 🐣 I love building scalable data systems and pipelines.  
-- 🌱 Avid learner exploring the intersection of Data Engineering and AI. 
-- ✨ Currently learning about **Data Modeling** and **MLOps**.
+- 🌱 Avid learner. 
+- ✨ Currently learning about **Data Modeling**.
 
 ---
 
