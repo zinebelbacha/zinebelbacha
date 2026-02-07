@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=fec5e5&height=100&text=Hey%20There!&fontSize=50&fontColor=ffffff&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=fec5e5&height=150&text=Hey%20There!&fontSize=50&fontColor=ffffff&animation=fadeIn)
 
 
 # <p align="center">I'm Zineb, a Data Engineering Student at [INPT](https://www.inpt.ac.ma/)</p>
