@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=fec5e5&height=150&text=Hey%20There!&fontSize=50&fontColor=ffffff&animation=fadeIn)
 
 
-# <p align="center">I'm Zineb, a Data Engineering Student at [INPT](https://www.inpt.ac.ma/)</p>
+# <p align="center">I'm Zineb, a Junior Data Engineer</p>
 
 - 🐣 I love building scalable data systems and pipelines.  
 - 🌱 Avid learner. 
@@ -18,6 +18,7 @@
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
 ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
 [![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)](https://www.databricks.com/)
 
 ### Databases & Storage
@@ -39,10 +40,13 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 
+## Certifications
+- Microsoft Certified: Azure Data Fundamentals
+- Microsoft Certified: Fabric Analytics Engineer Associate (In Progress)
 
 
 ---
 
-## 💬 Get in Touch
+## Get in Touch
 🔗 LinkedIn: [Zineb EL BACHA](https://www.linkedin.com/in/zineb-el-bacha-200252287/)</br>
-📧 Email: [lbachazineb@gmail.com](mailto:lbachazineb@gmail.com)</br>
+📧 Email: [zinebbacha2004@gmail.com](mailto:zinebbacha2004@gmail.com)</br>
